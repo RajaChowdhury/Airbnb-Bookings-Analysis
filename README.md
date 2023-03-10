@@ -38,7 +38,7 @@ This project is about Airbnb which operates on an online marketplace for lodging
 
 **availability_365-** refers to the availability of the listed property out of the total 365 days of a year.
 
-**reviews_per month-* refers o the count of reviews per month the property received.
+**reviews_per month-** refers o the count of reviews per month the property received.
 
 **longitude-** these represents the longitude coordinates of the property listed.
 
